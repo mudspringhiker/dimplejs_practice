@@ -6,3 +6,5 @@ The original visual is shown here:
 (obtained from http://cen.acs.org/articles/94/i45/Does-salary-stand.html?sc=161212_acq_ad_jumpc_li_reg_od)
 
 ![](miniproj3.png)
+
+The dimplejs visualization can be found here: http://datameric.com/dimplejs_practice/
