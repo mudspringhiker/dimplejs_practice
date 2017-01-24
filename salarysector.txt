@@ -1,0 +1,1 @@
+Year	Sector	Salary2015	Industry	1129962015	Government	1089872015	Academic	760002015	Overall	970002016	Industry	1150002016	Government	1076252016	Academic	800002016	Overall	97850
